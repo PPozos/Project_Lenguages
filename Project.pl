@@ -1,5 +1,18 @@
-/*Pablo Pozos Aguilar*/
-/*A01700854*/
+<Sudoku! Solver, This program was made to solve sudokus 9X9>
+  Copyright (C) <2019>  <Pablo Pozos Aguilar>
+
+  This program is free software: you can redistribute it and/or modify
+  it under the terms of the GNU General Public License as published by
+  the Free Software Foundation, either version 3 of the License, or
+  (at your option) any later version.
+
+  This program is distributed in the hope that it will be useful,
+  but WITHOUT ANY WARRANTY; without even the implied warranty of
+  MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+  GNU General Public License for more details.
+
+  You should have received a copy of the GNU General Public License
+  along with this program.  If not, see <https://www.gnu.org/licenses/>.
 
 /* Use of library bounds */
 :-use_module(library(bounds)).
@@ -134,7 +147,7 @@ write('|\n'),
 write('|'),
 write(D7),write(' '),write(D8),write(' '),write(D9),
 write('|'),
-write(E7),write(' '),write(E8),write(' '),write(E8),
+write(E7),write(' '),write(E8),write(' '),write(E9),
 write('|'),
 write(F7),write(' '),write(F8),write(' '),write(F9),
 write('|\n'),

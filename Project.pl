@@ -1,4 +1,4 @@
-<Sudoku! Solver, This program was made to solve sudokus 9X9>
+/*<Sudoku! Solver, This program was made to solve sudokus 9X9>
   Copyright (C) <2019>  <Pablo Pozos Aguilar>
 
   This program is free software: you can redistribute it and/or modify
@@ -12,7 +12,7 @@
   GNU General Public License for more details.
 
   You should have received a copy of the GNU General Public License
-  along with this program.  If not, see <https://www.gnu.org/licenses/>.
+  along with this program.  If not, see <https://www.gnu.org/licenses/>.*/
 
 /* Use of library bounds */
 :-use_module(library(bounds)).
